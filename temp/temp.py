@@ -1,0 +1,12 @@
+
+        self.Back_table = QLabel(self)
+        self.Back_table.resize(1360, 2000)
+        self.Back_table.move(40,290)
+        self.Back_table.setStyleSheet("background-color:rgb(37,37,38);")
+        self.Front_table = QLabel(self)
+        self.Front_table.setText('AAAAAAAAAAAAAAA')
+        self.Front_table.setFont(QFont("Helvetica [Cronyx]", 100))
+        self.Front_table.resize(1300, 655)
+        self.Front_table.move(100,335)
+        self.Front_table.setStyleSheet("color:rgb(0,255,255); background-color:rgb(255,255,255);")
+        self.scroll.setWidget(self.Front_table)

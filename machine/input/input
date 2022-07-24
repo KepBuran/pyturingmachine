@@ -1,0 +1,367 @@
+NoName ;  (x+y)!!
+0 q1:q1 0 L
+0 q2:q121 0 R
+0 q3:q4 a L
+0 q4:q4 0 L
+0 q5:q5 0 L
+0 q6:q6 0 R
+0 q7:q8 a L
+0 q8:q8 0 L
+0 q9:q9 0 L
+0 q10:q13 A R
+0 q11:q13 B R
+0 q12:q13 1 R
+0 q13:q13 0 R
+0 q14:q14 0 R
+0 q15:q15 0 R
+0 q16:q16 0 L
+0 q46:q46   R
+0 q47:q47 0 R
+0 q48:q50 # L
+0 q50:q51 0 L
+0 q51:q52 1 L
+0 q52:q52 1 L
+0 q53:q53 0 L
+0 q54:q54   R
+0 q64:q65 1 L
+0 q65:q65 1 L
+0 q66:q66 0 L
+0 q71:q71 0 R
+0 q72:q73 a L
+0 q73:q73 0 L
+0 q74:q75 A R
+0 q75:q75 0 R
+0 q76:q76 0 L
+0 q77:q78 a L
+0 q78:q78 0 L
+0 q79:q80 ~ R
+0 q80:q80 0 R
+0 q81:q81 0 L
+0 q82:q80 # R
+0 q83:q80 1 R
+0 q84:q84 0 L
+0 q85:q85 0 R
+0 q86:q86 0 L
+0 q88:q88 0 R
+0 q89:q89   R
+0 q90:q90 0 R
+0 q91:q92 1 L
+0 q92:q92 1 L
+0 q93:q93 0 L
+0 q94:q96 1 L
+0 q95:q96 1 L
+0 q96:q96 0 L
+0 q97:q98   R
+0 q98:q100 0 L
+0 q99:q101 0 L
+0 q102:q102 0 R
+0 q103:q94 0 L
+0 q104:q104 0 R
+0 q105:q105   L
+0 q106:q107   R
+0 q107:q109 0 L
+0 q108:q110 0 L
+0 q118:q120 0 R
+0 q119:q119 0 R
+0 q120:! e S
+0 q121:! e S
+0 q122:q122 0 R
+1 q1:q1 1 L
+1 q2:q122 1 R
+1 q3:q5 b L
+1 q4:q4 1 L
+1 q5:q5 1 L
+1 q6:q6 1 R
+1 q7:q9 b L
+1 q8:q8 1 L
+1 q9:q9 1 L
+1 q10:q13 B R
+1 q11:q12 A L
+1 q12:q12 0 L
+1 q13:q13 1 R
+1 q14:q14 1 R
+1 q15:q15 1 R
+1 q16:q16 1 L
+1 q46:q47 1 R
+1 q47:q47 1 R
+1 q48:q64 # L
+1 q50:q51 1 L
+1 q51:q53 0 L
+1 q52:q53 0 L
+1 q53:q53 1 L
+1 q54:q54   R
+1 q64:q66 0 L
+1 q65:q66 0 L
+1 q66:q66 1 L
+1 q71:q71 1 R
+1 q72:q76 b L
+1 q73:q73 1 L
+1 q74:q75 B R
+1 q75:q75 1 R
+1 q76:q76 1 L
+1 q77:q81 b L
+1 q78:q78 1 L
+1 q79:q80 # R
+1 q80:q80 1 R
+1 q81:q81 1 L
+1 q82:q83 ~ L
+1 q83:q83 0 L
+1 q84:q84 1 L
+1 q85:q85 1 R
+1 q86:q86 1 L
+1 q88:q88 1 R
+1 q89:q89   R
+1 q90:q90 1 R
+1 q91:q93 0 L
+1 q92:q93 0 L
+1 q93:q93 1 L
+1 q94:q95 0 L
+1 q95:q95 0 L
+1 q96:q96 1 L
+1 q97:q99   R
+1 q98:q100 1 L
+1 q99:q101 1 L
+1 q102:q102 1 R
+1 q103:q94 1 L
+1 q104:q104 1 R
+1 q105:q105   L
+1 q106:q108   R
+1 q107:q109 1 L
+1 q108:q110 1 L
+1 q118:q119 1 R
+1 q119:q119 1 R
+1 q120:! e S
+1 q121:! e S
+1 q122:q122 1 R
+a q1:! e S
+a q2:! e S
+a q6:q3 a L
+a q14:q7 a L
+a q15:q15 a R
+a q16:q16 0 L
+a q75:q72 0 L
+a q80:q77 0 L
+a q118:! e S
+a q119:! e S
+a q120:! e S
+a q121:! e S
+a q122:! e S
+b q1:! e S
+b q2:! e S
+b q6:q3 b L
+b q14:q7 b L
+b q15:q15 b R
+b q16:q16 1 L
+b q75:q72 1 L
+b q80:q77 1 L
+b q118:! e S
+b q119:! e S
+b q120:! e S
+b q121:! e S
+b q122:! e S
+| q1:q1 | L
+| q2:! e S
+| q3:q7 | L
+| q4:q4 | L
+| q5:q5 | L
+| q6:q6 | R
+| q7:q15 | R
+| q15:q15 | R
+| q16:q16 | L
+| q71:q72 | L
+| q80:q80 | R
+| q90:q90 | R
+| q92:q104 | R
+| q93:q103 | L
+| q102:q72 | L
+| q105:q105   L
+| q118:! e S
+| q119:q2 | R
+| q120:q2 | R
+| q121:! e S
+| q122:! e S
+= q1:! e S
+= q2:! e S
+= q4:q4 = L
+= q5:q5 = L
+= q6:q6 = R
+= q7:q15 = R
+= q8:q10 = L
+= q9:q11 = L
+= q13:q14 = R
+= q16:q16 = L
+= q46:q49 = L
+= q47:q48 = L
+= q54:q55 = L
+= q73:q74 = L
+= q75:q75 = R
+= q77:q84 = L
+= q78:q79 = L
+= q79:q79 = L
+= q80:q80 = R
+= q81:q82 = L
+= q85:q74 = L
+= q86:q86 = L
+= q88:q89   R
+= q107:q109 = L
+= q108:q110 = L
+= q118:! e S
+= q119:! e S
+= q120:! e S
+= q121:! e S
+= q122:! e S
+A q1:! e S
+A q2:! e S
+A q10:q10 A L
+A q11:q11 A L
+A q13:q13 A R
+A q16:q16 0 L
+A q74:q74 A L
+A q75:q75 A R
+A q79:q79 A L
+A q80:q80 A R
+A q82:q82 A L
+A q84:q84 A L
+A q85:q74 A L
+A q86:q86 0 L
+A q118:! e S
+A q119:! e S
+A q120:! e S
+A q121:! e S
+A q122:! e S
+B q1:! e S
+B q2:! e S
+B q10:q10 B L
+B q11:q11 B L
+B q13:q13 B R
+B q16:q16 1 L
+B q74:q74 B L
+B q75:q75 B R
+B q79:q79 B L
+B q80:q80 B R
+B q82:q82 B L
+B q84:q84 B L
+B q85:q74 B L
+B q86:q86 1 L
+B q118:! e S
+B q119:! e S
+B q120:! e S
+B q121:! e S
+B q122:! e S
+~ q1:! e S
+~ q2:! e S
+~ q79:q79 ~ L
+~ q80:q80 ~ R
+~ q82:q82 ~ L
+~ q84:q84 0 L
+~ q118:! e S
+~ q119:! e S
+~ q120:! e S
+~ q121:! e S
+~ q122:! e S
+# q1:! e S
+# q2:! e S
+# q54:q54   R
+# q79:q79 # L
+# q80:q80 # R
+# q82:q82 # L
+# q84:q84 1 L
+# q90:q91 # L
+# q104:q105   L
+# q117:! 1 S
+# q118:! e S
+# q119:! e S
+# q120:! e S
+# q121:! e S
+# q122:! e S
+* q1:! e S
+* q2:! e S
+* q71:q71 * R
+* q72:q86 * L
+* q73:q73 * L
+* q75:q75 * R
+* q76:q77 * L
+* q89:q90   R
+* q98:q100 * L
+* q99:q101 * L
+* q102:q102 * R
+* q118:! e S
+* q119:! e S
+* q120:! e S
+* q121:! e S
+* q122:! e S
+! q1:! e S
+! q2:! e S
+! q97:q102   R
+! q106:!   R
+! q118:! e S
+! q119:! e S
+! q120:! e S
+! q121:! e S
+! q122:! e S
+e q1:! e S
+e q2:! e S
+e q118:! e S
+e q119:! e S
+e q120:! e S
+e q121:! e S
+e q122:! e S
+  q1:q118 = R
+  q2:q3   L
+  q4:q6 0 R
+  q5:q6 1 R
+  q10:q13 A R
+  q11:q13 B R
+  q12:q13 1 R
+  q15:q16   L
+  q16:q46   R
+  q46:q46   R
+  q49:! 1 S
+  q51:q54   R
+  q53:q57 | L
+  q55:q56 0 L
+  q56:! 1 S
+  q57:q58 0 L
+  q58:q59 0 L
+  q59:q60 1 L
+  q60:q61 * L
+  q61:q62 0 L
+  q62:q63 1 L
+  q63:q71 = R
+  q64:q117   R
+  q66:q112 | L
+  q73:q74 = L
+  q74:q75 A R
+  q76:q77   L
+  q79:q80 ~ R
+  q81:q82 = L
+  q82:q80 # R
+  q83:q80 1 R
+  q84:q85   R
+  q86:q87   S
+  q87:q88 ! R
+  q94:q96 1 L
+  q95:q96 1 L
+  q96:q97 * L
+  q97:q97   L
+  q98:q98   R
+  q99:q99   R
+  q100:q97 0 L
+  q101:q97 1 L
+  q102:q102   R
+  q105:q106   L
+  q106:q106   L
+  q107:q107   R
+  q108:q108   R
+  q109:q106 0 L
+  q110:q106 1 L
+  q112:q113 1 L
+  q113:q114 1 L
+  q114:q115 * L
+  q115:q116 1 L
+  q116:q71 = R
+  q118:! e S
+  q119:! e S
+  q120:! e S
+  q121:q3   L
+  q122:q3   L
